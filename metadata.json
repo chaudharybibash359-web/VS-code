@@ -1,0 +1,6 @@
+{
+  "name": "VS Code",
+  "description": "Full-featured VS Code IDE for Android with multi-tab editor, integrated terminal, HTML5 game runner, Git version control, extensions, and cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

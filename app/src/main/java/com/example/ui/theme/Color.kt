@@ -1,0 +1,37 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// VS Code Dark+ Theme Palette
+val VSCodeBackground = Color(0xFF1E1E1E)
+val VSCodeSidebar = Color(0xFF252526)
+val VSCodeActivityBar = Color(0xFF333333)
+val VSCodeActivityBarActive = Color(0xFFFFFFFF)
+val VSCodeActivityBarInactive = Color(0xFF858585)
+val VSCodeStatusBar = Color(0xFF007ACC)
+val VSCodeStatusBarText = Color(0xFFFFFFFF)
+val VSCodeTabActive = Color(0xFF1E1E1E)
+val VSCodeTabInactive = Color(0xFF2D2D2D)
+val VSCodeTabBorder = Color(0xFF252526)
+val VSCodeEditorGutter = Color(0xFF1E1E1E)
+val VSCodeLineNumber = Color(0xFF858585)
+val VSCodeActiveLine = Color(0xFF282828)
+val VSCodeSelection = Color(0xFF264F78)
+val VSCodeAccent = Color(0xFF007ACC)
+val VSCodeTextPrimary = Color(0xFFD4D4D4)
+val VSCodeTextSecondary = Color(0xFF969696)
+val VSCodeBorder = Color(0xFF3C3C3C)
+val VSCodeInputBg = Color(0xFF3C3C3C)
+val VSCodeTerminalBg = Color(0xFF181818)
+
+// Syntax Token Colors (VS Code Dark+)
+val TokenKeyword = Color(0xFF569CD6)       // Blue (if, else, return, class, function, const)
+val TokenType = Color(0xFF4EC9B0)          // Teal (String, Int, Boolean, Custom types)
+val TokenString = Color(0xFFCE9178)        // Orange/Rust ("hello", 'world')
+val TokenNumber = Color(0xFFB5CEA8)        // Light Green (123, 3.14)
+val TokenComment = Color(0xFF6A9955)       // Green (// comment, /* comment */)
+val TokenFunction = Color(0xFFDCDCAA)      // Soft Yellow (myFunc(), print())
+val TokenProperty = Color(0xFF9CDCFE)      // Light Blue (obj.property)
+val TokenTag = Color(0xFF569CD6)           // Blue (<div>, <body>)
+val TokenAttribute = Color(0xFF9CDCFE)     // Light Blue (class="", id="")
+val TokenPunctuation = Color(0xFFD4D4D4)   // Light Grey ({, }, (, ), ;)
